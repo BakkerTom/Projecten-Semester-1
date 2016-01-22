@@ -1,0 +1,9 @@
+c:\users\tom\documents\visual studio 2015\Projects\Trekking\Trekking\bin\Debug\Trekking.exe.config
+c:\users\tom\documents\visual studio 2015\Projects\Trekking\Trekking\bin\Debug\Trekking.exe
+c:\users\tom\documents\visual studio 2015\Projects\Trekking\Trekking\bin\Debug\Trekking.pdb
+c:\users\tom\documents\visual studio 2015\Projects\Trekking\Trekking\obj\Debug\Trekking.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2015\Projects\Trekking\Trekking\obj\Debug\Trekking.Form1.resources
+c:\users\tom\documents\visual studio 2015\Projects\Trekking\Trekking\obj\Debug\Trekking.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2015\Projects\Trekking\Trekking\obj\Debug\Trekking.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2015\Projects\Trekking\Trekking\obj\Debug\Trekking.exe
+c:\users\tom\documents\visual studio 2015\Projects\Trekking\Trekking\obj\Debug\Trekking.pdb

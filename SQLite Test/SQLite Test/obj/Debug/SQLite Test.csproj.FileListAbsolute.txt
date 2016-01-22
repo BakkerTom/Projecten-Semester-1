@@ -1,0 +1,10 @@
+c:\users\tom\documents\visual studio 2015\Projects\SQLite Test\SQLite Test\bin\Debug\SQLite Test.exe.config
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SQLite Test\SQLite Test\obj\Debug\SQLite Test.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SQLite Test\SQLite Test\obj\Debug\SQLite_Test.Form1.resources
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SQLite Test\SQLite Test\obj\Debug\SQLite_Test.Properties.Resources.resources
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SQLite Test\SQLite Test\obj\Debug\SQLite Test.csproj.GenerateResource.Cache
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SQLite Test\SQLite Test\bin\Debug\SQLite Test.exe
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SQLite Test\SQLite Test\bin\Debug\SQLite Test.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SQLite Test\SQLite Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SQLite Test\SQLite Test\obj\Debug\SQLite Test.exe
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SQLite Test\SQLite Test\obj\Debug\SQLite Test.pdb

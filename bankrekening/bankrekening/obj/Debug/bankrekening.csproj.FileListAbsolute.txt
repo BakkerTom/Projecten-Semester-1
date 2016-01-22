@@ -1,0 +1,14 @@
+c:\users\tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\bin\Debug\bankrekening.exe.config
+c:\users\tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\bin\Debug\bankrekening.exe
+c:\users\tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\bin\Debug\bankrekening.pdb
+c:\users\tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\obj\Debug\MainWindow.g.cs
+c:\users\tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\obj\Debug\App.g.cs
+c:\users\tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\obj\Debug\bankrekening_MarkupCompile.cache
+c:\users\tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\obj\Debug\bankrekening_MarkupCompile.lref
+c:\users\tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\obj\Debug\MainWindow.baml
+c:\users\tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\obj\Debug\bankrekening.g.resources
+c:\users\tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\obj\Debug\bankrekening.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\obj\Debug\bankrekening.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\obj\Debug\bankrekening.exe
+c:\users\tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\obj\Debug\bankrekening.pdb
+C:\Users\Tom\documents\visual studio 2015\Projects\bankrekening\bankrekening\obj\Debug\bankrekening.csprojResolveAssemblyReference.cache

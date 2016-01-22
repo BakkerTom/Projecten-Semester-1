@@ -1,0 +1,9 @@
+c:\users\tom\documents\visual studio 2015\Projects\StaticDing\StaticDing\bin\Debug\StaticDing.exe.config
+c:\users\tom\documents\visual studio 2015\Projects\StaticDing\StaticDing\bin\Debug\StaticDing.exe
+c:\users\tom\documents\visual studio 2015\Projects\StaticDing\StaticDing\bin\Debug\StaticDing.pdb
+c:\users\tom\documents\visual studio 2015\Projects\StaticDing\StaticDing\obj\Debug\StaticDing.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2015\Projects\StaticDing\StaticDing\obj\Debug\StaticDing.Form1.resources
+c:\users\tom\documents\visual studio 2015\Projects\StaticDing\StaticDing\obj\Debug\StaticDing.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2015\Projects\StaticDing\StaticDing\obj\Debug\StaticDing.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2015\Projects\StaticDing\StaticDing\obj\Debug\StaticDing.exe
+c:\users\tom\documents\visual studio 2015\Projects\StaticDing\StaticDing\obj\Debug\StaticDing.pdb

@@ -1,0 +1,10 @@
+c:\users\tom\documents\visual studio 2015\Projects\iMDB\iMDB\bin\Debug\iMDB.exe.config
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\iMDB\iMDB\bin\Debug\iMDB.exe
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\iMDB\iMDB\bin\Debug\iMDB.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\iMDB\iMDB\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\iMDB\iMDB\obj\Debug\iMDB.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\iMDB\iMDB\obj\Debug\iMDB.Form1.resources
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\iMDB\iMDB\obj\Debug\iMDB.Properties.Resources.resources
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\iMDB\iMDB\obj\Debug\iMDB.csproj.GenerateResource.Cache
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\iMDB\iMDB\obj\Debug\iMDB.exe
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\iMDB\iMDB\obj\Debug\iMDB.pdb

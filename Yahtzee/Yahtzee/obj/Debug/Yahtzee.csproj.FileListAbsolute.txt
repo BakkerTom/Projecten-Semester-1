@@ -1,0 +1,8 @@
+c:\users\tom\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+c:\users\tom\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+c:\users\tom\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+c:\users\tom\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Form1.resources
+c:\users\tom\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+c:\users\tom\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb

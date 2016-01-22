@@ -1,0 +1,9 @@
+c:\users\tom\documents\visual studio 2015\Projects\EnumsOverrides\EnumsOverrides\bin\Debug\EnumsOverrides.exe.config
+c:\users\tom\documents\visual studio 2015\Projects\EnumsOverrides\EnumsOverrides\bin\Debug\EnumsOverrides.exe
+c:\users\tom\documents\visual studio 2015\Projects\EnumsOverrides\EnumsOverrides\bin\Debug\EnumsOverrides.pdb
+c:\users\tom\documents\visual studio 2015\Projects\EnumsOverrides\EnumsOverrides\obj\Debug\EnumsOverrides.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2015\Projects\EnumsOverrides\EnumsOverrides\obj\Debug\EnumsOverrides.Form1.resources
+c:\users\tom\documents\visual studio 2015\Projects\EnumsOverrides\EnumsOverrides\obj\Debug\EnumsOverrides.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2015\Projects\EnumsOverrides\EnumsOverrides\obj\Debug\EnumsOverrides.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2015\Projects\EnumsOverrides\EnumsOverrides\obj\Debug\EnumsOverrides.exe
+c:\users\tom\documents\visual studio 2015\Projects\EnumsOverrides\EnumsOverrides\obj\Debug\EnumsOverrides.pdb

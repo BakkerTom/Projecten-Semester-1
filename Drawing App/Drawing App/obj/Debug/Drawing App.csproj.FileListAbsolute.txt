@@ -1,0 +1,9 @@
+c:\users\tom\documents\visual studio 2015\Projects\Drawing App\Drawing App\bin\Debug\Drawing App.exe.config
+c:\users\tom\documents\visual studio 2015\Projects\Drawing App\Drawing App\bin\Debug\Drawing App.exe
+c:\users\tom\documents\visual studio 2015\Projects\Drawing App\Drawing App\bin\Debug\Drawing App.pdb
+c:\users\tom\documents\visual studio 2015\Projects\Drawing App\Drawing App\obj\Debug\Drawing App.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2015\Projects\Drawing App\Drawing App\obj\Debug\Drawing_App.Form1.resources
+c:\users\tom\documents\visual studio 2015\Projects\Drawing App\Drawing App\obj\Debug\Drawing_App.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2015\Projects\Drawing App\Drawing App\obj\Debug\Drawing App.csproj.GenerateResource.Cache
+c:\users\tom\documents\visual studio 2015\Projects\Drawing App\Drawing App\obj\Debug\Drawing App.exe
+c:\users\tom\documents\visual studio 2015\Projects\Drawing App\Drawing App\obj\Debug\Drawing App.pdb
